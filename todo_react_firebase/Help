@@ -1,0 +1,36 @@
+CREATE FOLDER:
+mkdir <folder name>
+
+TO GO INSIDE TO SPECIFIC FOLDER
+cd <folder name>
+
+LEVEL UP:
+cd ..
+
+CHECK NODE INSTALLED VERSION:
+node -v
+
+INSTALL create-react-app:
+npm install -g create-react-app
+
+CREATE-REACT-APP
+create-react-app <app name>
+
+START NPM SERVER
+npm start
+npm run build
+npm test
+npm run eject
+
+INSTALL FIREBASE
+npm install --save firebase
+
+HOW TO KILL A PROCESS RUNNING ON PARTICULAR PORT IN LINUX?
+sudo netstat -plten |grep java
+kill -9 <id>
+
+{/*<img src={logo} className="App-logo" alt="logo" /> */} 
+/* height and width properties are used to set the height and width of an element. */
+//import logo from './logo.svg';
+
+
